@@ -1,4 +1,4 @@
-###TASK
+### TASK
 Build a Voting System smart contract with these features:
 
 1. Register candidates (add names).
@@ -6,7 +6,7 @@ Build a Voting System smart contract with these features:
 3. Track and display the total votes for each candidate.
 4. Prevent users from voting more than once to keep it fair.
 
-###IMPLEMENTATION
+### IMPLEMENTATION
 This will help practice functions, mappings, and basic logic.
 Started out by diving straight into it without realizing i had to stop break down the steps and tackle them one at a time . And also had to figure out the whole logic of how the contract should be like .
 
